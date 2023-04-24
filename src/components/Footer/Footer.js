@@ -52,7 +52,7 @@ export function Footer() {
       </div>    
       <div>
         <p className={styles.copyright}>
-          SURTIPAPELERIA LA 15 Copyright © 2023. Todos los derechos reservados |
+          SURTIPRECIOS LA 15 Copyright © 2023. Todos los derechos reservados |
           Desarrollado por:  Jeffer Quiñones<br/>
          Versión 2.6.1
         </p>

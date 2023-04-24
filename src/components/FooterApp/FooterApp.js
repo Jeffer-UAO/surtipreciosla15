@@ -23,7 +23,7 @@ export function FooterApp() {
         />
 
         <WhatsApp
-          phoneNumber="+573103900666"
+          phoneNumber="+573136364253"
           message="Hola, me gustaría obtener más información sobre sus productos."
         />
         <BtnLink
@@ -33,7 +33,7 @@ export function FooterApp() {
         />
         <BtnLink
           link={
-            "https://surtipapeleriala15.catalogointeractivo.com.co/admin-dashboard/"
+            "https://surtipreciosla15.catalogointeractivo.com.co/admin-dashboard/"
           }
           title={"ADMIN"}
           logo={<CiUser size={20} />}

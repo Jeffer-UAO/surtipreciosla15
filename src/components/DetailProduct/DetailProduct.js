@@ -34,7 +34,7 @@ export function DetailProduct(props) {
             <p>{productData.description}</p>
             <div>
               <WhatsApp
-                phoneNumber="+573103900666"
+                phoneNumber="+573136364253"
                 message={
                   BASE_NAME +
                   productData.images +
