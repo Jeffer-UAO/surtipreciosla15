@@ -3,7 +3,7 @@ import styles from "./TopBar.module.scss";
 import { CardImg } from "reactstrap";
 import { AiOutlineSearch } from "react-icons/ai";
 import classNames from "classnames";
-import { AiOutlineHeart } from "react-icons/ai";
+// import { AiOutlineHeart } from "react-icons/ai";
 import Link from "next/link";
 import { Search } from "./Search";
 import { Products } from "@/api/products";
@@ -65,7 +65,7 @@ export function TopBar() {
         <Link href="/" onClick={() => changeStatus()}>
           <CardImg
             src="/image/logo.png"
-            alt="MIHOGARDISTRIBUCIONES"
+            alt=""
           />{" "}
         </Link>
 
