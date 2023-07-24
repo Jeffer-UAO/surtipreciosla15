@@ -11,9 +11,12 @@ import styles from "./ListProduts.module.scss";
 import Link from "next/link";
 import { ModalBasic } from "../Common";
 
+
 export function Listproducts(props) {
   const { products, title } = props;
   const { user } = useAuth();
+
+  console.log(products[0].productData);
 
   return (
     <>

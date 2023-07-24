@@ -66,7 +66,7 @@ export function TopBarAdmin() {
         <Link href="/" onClick={() => changeStatus()}>
           <CardImg
             src="/image/logo-surtipapeleriala15-1.png"
-            alt="SURTIPAPELRIA"
+            alt="SURTIPRECIOS"
           />{" "}
         </Link>
 
