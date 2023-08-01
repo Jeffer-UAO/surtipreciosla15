@@ -13,12 +13,13 @@ export function Contact(props) {
           <ul>
             
             <li>(+57) 313 636 4253</li>
+            <li>(+57) 314 572 1972</li>
           </ul>
         </div>
 
         <div className={styles.adress}>
           <h5>Ubicación:</h5>
-          <p>Cll 15 # 9-65, Centro de Cali</p>
+          <p>Cll 15 # 9-60, Centro de Cali</p>
         </div>
       </div>
       <FooterApp />
